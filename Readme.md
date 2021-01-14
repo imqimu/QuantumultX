@@ -1,3 +1,4 @@
+# 所有内容均来自互联网 不确保可用性
 ## 免责声明：
 
 * imqimu发布的Script项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
@@ -13,3 +14,42 @@
 * 您必须在下载后的24小时内从计算机或手机中完全删除以上内容.
 
 * 任何以任何方式查看此项目的人或直接或间接使用该Script项目的任何脚本的使用者都应仔细阅读此声明。imqimu保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明.
+
+### 特别感谢 ：
+* [@NobyDa](https://github.com/NobyDa)
+
+* [@lhie1](https://github.com/lhie1)
+
+* [@ConnersHua](https://github.com/DivineEngine)
+
+* [@chavyleung](https://github.com/chavyleung)
+
+* [@yichahucha](https://github.com/yichahucha)
+
+* [@langkhach270389](https://github.com/langkhach270389)
+
+* [@Choler](https://github.com/Choler)
+
+* [@onewayticket255](https://github.com/onewayticket255)
+
+* [@NavePnow](https://github.com/NavePnow)
+
+* [@Meeta](https://github.com/MeetaGit)
+
+* [@Neurogram-R](https://github.com/Neurogram-R)
+
+* [@sazs34](https://github.com/sazs34)
+
+* [@id77](https://github.com/id77)
+
+* [@lxk0301](https://github.com/lxk0301)
+
+* [@红鲤鱼与绿鲤鱼与驴](https://github.com/wangdelu2020)
+
+* [@iisams](https://github.com/iisams/Scripts)
+
+* [@barrym-chen](https://github.com/barrym-chen/Script)
+
+* [@ziye12](https://github.com/ziye12/JavaScript)
+
+* [@公众号墨鱼手记](https://github.com/ddgksf2013)
